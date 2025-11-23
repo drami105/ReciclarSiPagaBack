@@ -1,0 +1,1145 @@
+﻿++Solución "BackendReciclarsipaga" ‎(1 de 1 proyecto)
+i:{00000000-0000-0000-0000-000000000000}:BackendReciclarsipaga.sln
+++BackendReciclarsipaga
+i:{00000000-0000-0000-0000-000000000000}:BackendReciclarsipaga
+++Connected Services 
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:>1372
+++Dependencias
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:>1371
+++Importaciones
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:>615
+++Properties
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\properties\
+++bin
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\
+++Context
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\context\
+++AppDbContext.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\context\appdbcontext.cs
+++Controllers
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\controllers\
+++BarrioController.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\controllers\barriocontroller.cs
+++CiudadController.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\controllers\ciudadcontroller.cs
+++PersonaController.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\controllers\personacontroller.cs
+++PuntosController.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\controllers\puntoscontroller.cs
+++RecoleccionController.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\controllers\recoleccioncontroller.cs
+++TipoDocumentoController.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\controllers\tipodocumentocontroller.cs
+++UsuarioController.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\controllers\usuariocontroller.cs
+++Helper
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\helper\
+++HashHelper.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\helper\hashhelper.cs
+++Models
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\models\
+++ActualizarRecoleccionDto.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\models\actualizarrecolecciondto.cs
+++Barrio.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\models\barrio.cs
+++Ciudad.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\models\ciudad.cs
+++LoginDto.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\models\logindto.cs
+++Persona.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\models\persona.cs
+++PersonaUsuarioDto.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\models\personausuariodto.cs
+++Puntos.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\models\puntos.cs
+++Recoleccion.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\models\recoleccion.cs
+++RecoleccionDto.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\models\recolecciondto.cs
+++TipoDocumento.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\models\tipodocumento.cs
+++Usuario.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\models\usuario.cs
+++obj
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\
+++Services
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\services\
+++BarrioService.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\services\barrioservice.cs
+++CiudadService.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\services\ciudadservice.cs
+++IBarrioService.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\services\ibarrioservice.cs
+++ICiudadService.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\services\iciudadservice.cs
+++IPersonaService.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\services\ipersonaservice.cs
+++IPuntosService.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\services\ipuntosservice.cs
+++IRecoleccionService.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\services\irecoleccionservice.cs
+++ITipoDocumentoService.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\services\itipodocumentoservice.cs
+++IUsuarioService.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\services\iusuarioservice.cs
+++PersonaService.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\services\personaservice.cs
+++PuntosService.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\services\puntosservice.cs
+++RecoleccionService.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\services\recoleccionservice.cs
+++TipoDocumentoService.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\services\tipodocumentoservice.cs
+++UsuarioService.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\services\usuarioservice.cs
+++appsettings.Development.json
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\appsettings.development.json
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\appsettings.development.json
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\appsettings.development.json
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\appsettings.development.json
+++appsettings.json
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\appsettings.json
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\appsettings.json
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\appsettings.json
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\appsettings.json
+++Program.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\program.cs
+++Startup.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\startup.cs
+++No se detectaron dependencias de servicio
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:>1373
+++Analizadores
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:analizadores
+++Marcos de trabajo
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:marcos de trabajo
+++Paquetes
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:paquetes
+++Sdk.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\sdk\sdk.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\sdk\sdk.targets
+++PublishProfiles
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\properties\publishprofiles\
+++launchSettings.json
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\properties\launchsettings.json
+++Debug
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\
+++Release
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\
+++BackendReciclarsipaga.csproj.nuget.dgspec.json
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\backendreciclarsipaga.csproj.nuget.dgspec.json
+++BackendReciclarsipaga.csproj.nuget.g.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\backendreciclarsipaga.csproj.nuget.g.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\backendreciclarsipaga.csproj.nuget.g.props
+++BackendReciclarsipaga.csproj.nuget.g.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\backendreciclarsipaga.csproj.nuget.g.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\backendreciclarsipaga.csproj.nuget.g.targets
+++BackendRubricas.csproj.nuget.dgspec.json
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\backendrubricas.csproj.nuget.dgspec.json
+++BackendRubricas.csproj.nuget.g.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\backendrubricas.csproj.nuget.g.props
+++BackendRubricas.csproj.nuget.g.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\backendrubricas.csproj.nuget.g.targets
+++project.assets.json
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\project.assets.json
+++project.nuget.cache
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\project.nuget.cache
+++Microsoft.AspNetCore.Analyzers
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.4\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.4\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.1.24\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\microsoft.netcore.app
+++Microsoft.AspNet.WebApi.Cors (5.2.9)
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:>1391
+++Microsoft.AspNetCore.Authentication.JwtBearer (3.1.23)
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:>1392
+++Microsoft.AspNetCore.Cors (2.2.0)
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:>1389
+++Microsoft.EntityFrameworkCore (3.1.24)
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:>1385
+++Microsoft.EntityFrameworkCore.Design (3.1.23)
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:>1387
+++Microsoft.EntityFrameworkCore.SqlServer (3.1.24)
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:>1386
+++Microsoft.EntityFrameworkCore.Tools (3.1.23)
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:>1393
+++Microsoft.OpenApi (1.2.3)
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:>1390
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (3.1.5)
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:>1394
+++Swashbuckle.AspNetCore (5.4.1)
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:>1388
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\sdk\sdk.props
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\sdk\sdk.targets
+++rubricasbackend - FTP.pubxml
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\properties\publishprofiles\rubricasbackend - ftp.pubxml
+++rubricasbackend - FTP.pubxml.user
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\properties\publishprofiles\rubricasbackend - ftp.pubxml.user
+++rubricasbackend - Web Deploy.pubxml
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\properties\publishprofiles\rubricasbackend - web deploy.pubxml
+++rubricasbackend - Web Deploy.pubxml.user
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\properties\publishprofiles\rubricasbackend - web deploy.pubxml.user
+++rubricasbackend - Zip Deploy.pubxml
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\properties\publishprofiles\rubricasbackend - zip deploy.pubxml
+++rubricasbackend - Zip Deploy.pubxml.user
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\properties\publishprofiles\rubricasbackend - zip deploy.pubxml.user
+++netcoreapp3.1
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\netcoreapp3.1\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\
+++Microsoft.Common.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Sdk.Razor.CurrentVersion.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.props
+++Microsoft.NET.Sdk.Web.ProjectSystem.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.props
+++Microsoft.NET.Sdk.Publish.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++Sdk.Razor.CurrentVersion.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.targets
+++Microsoft.NET.Sdk.Web.ProjectSystem.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.targets
+++Microsoft.NET.Sdk.Publish.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.targets
+++cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\cs\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\cs\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\cs\
+++de
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\de\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\de\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\de\
+++es
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\es\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\es\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\es\
+++fr
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\fr\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\fr\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\fr\
+++it
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\it\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\it\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\it\
+++ja
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\ja\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\ja\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\ja\
+++ko
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\ko\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\ko\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\ko\
+++pl
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\pl\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\pl\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\pl\
+++pt-BR
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\pt-br\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\pt-br\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\pt-br\
+++ru
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\ru\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\ru\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\ru\
+++runtimes
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\runtimes\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\runtimes\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\runtimes\
+++tr
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\tr\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\tr\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\tr\
+++zh-Hans
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\zh-hans\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\zh-hans\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\zh-hans\
+++zh-Hant
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\zh-hant\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\zh-hant\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\zh-hant\
+++BackendReciclarsipaga.deps.json
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\backendreciclarsipaga.deps.json
+++BackendReciclarsipaga.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\backendreciclarsipaga.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\netcoreapp3.1\backendreciclarsipaga.dll
+++BackendReciclarsipaga.exe
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\backendreciclarsipaga.exe
+++BackendReciclarsipaga.pdb
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\backendreciclarsipaga.pdb
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\netcoreapp3.1\backendreciclarsipaga.pdb
+++BackendReciclarsipaga.runtimeconfig.dev.json
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\backendreciclarsipaga.runtimeconfig.dev.json
+++BackendReciclarsipaga.runtimeconfig.json
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\backendreciclarsipaga.runtimeconfig.json
+++BackendRubricas.deps.json
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\backendrubricas.deps.json
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\backendrubricas.deps.json
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\backendrubricas.deps.json
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\backendrubricas.deps.json
+++BackendRubricas.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\backendrubricas.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\backendrubricas.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\netcoreapp3.1\backendrubricas.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\backendrubricas.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\backendrubricas.dll
+++BackendRubricas.exe
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\backendrubricas.exe
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\backendrubricas.exe
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\backendrubricas.exe
+++BackendRubricas.pdb
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\backendrubricas.pdb
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\backendrubricas.pdb
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\netcoreapp3.1\backendrubricas.pdb
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\backendrubricas.pdb
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\backendrubricas.pdb
+++BackendRubricas.runtimeconfig.dev.json
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\backendrubricas.runtimeconfig.dev.json
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\backendrubricas.runtimeconfig.dev.json
+++BackendRubricas.runtimeconfig.json
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\backendrubricas.runtimeconfig.json
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\backendrubricas.runtimeconfig.json
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\backendrubricas.runtimeconfig.json
+++dotnet-aspnet-codegenerator-design.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\dotnet-aspnet-codegenerator-design.dll
+++Microsoft.AspNetCore.Authentication.JwtBearer.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.aspnetcore.authentication.jwtbearer.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.aspnetcore.authentication.jwtbearer.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.aspnetcore.authentication.jwtbearer.dll
+++Microsoft.AspNetCore.Razor.Language.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.aspnetcore.razor.language.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.aspnetcore.razor.language.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.aspnetcore.razor.language.dll
+++Microsoft.Bcl.AsyncInterfaces.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.bcl.asyncinterfaces.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.bcl.asyncinterfaces.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.bcl.asyncinterfaces.dll
+++Microsoft.Bcl.HashCode.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.bcl.hashcode.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.bcl.hashcode.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.bcl.hashcode.dll
+++Microsoft.CodeAnalysis.CSharp.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.codeanalysis.csharp.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.codeanalysis.csharp.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.codeanalysis.csharp.dll
+++Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.codeanalysis.csharp.workspaces.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.codeanalysis.csharp.workspaces.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.codeanalysis.csharp.workspaces.dll
+++Microsoft.CodeAnalysis.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.codeanalysis.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.codeanalysis.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.codeanalysis.dll
+++Microsoft.CodeAnalysis.Razor.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.codeanalysis.razor.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.codeanalysis.razor.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.codeanalysis.razor.dll
+++Microsoft.CodeAnalysis.Workspaces.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.codeanalysis.workspaces.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.codeanalysis.workspaces.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.codeanalysis.workspaces.dll
+++Microsoft.Data.SqlClient.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.data.sqlclient.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.data.sqlclient.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.data.sqlclient.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\microsoft.data.sqlclient.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\microsoft.data.sqlclient.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\microsoft.data.sqlclient.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\microsoft.data.sqlclient.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\runtimes\unix\lib\netcoreapp2.1\microsoft.data.sqlclient.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\runtimes\win\lib\netcoreapp2.1\microsoft.data.sqlclient.dll
+++Microsoft.EntityFrameworkCore.Abstractions.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.entityframeworkcore.abstractions.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.entityframeworkcore.abstractions.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.entityframeworkcore.abstractions.dll
+++Microsoft.EntityFrameworkCore.Design.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.entityframeworkcore.design.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.entityframeworkcore.design.dll
+++Microsoft.EntityFrameworkCore.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.entityframeworkcore.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.entityframeworkcore.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.entityframeworkcore.dll
+++Microsoft.EntityFrameworkCore.Relational.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.entityframeworkcore.relational.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.entityframeworkcore.relational.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.entityframeworkcore.relational.dll
+++Microsoft.EntityFrameworkCore.SqlServer.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.entityframeworkcore.sqlserver.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.entityframeworkcore.sqlserver.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.entityframeworkcore.sqlserver.dll
+++Microsoft.Extensions.Caching.Abstractions.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.extensions.caching.abstractions.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.extensions.caching.abstractions.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.extensions.caching.abstractions.dll
+++Microsoft.Extensions.Caching.Memory.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.extensions.caching.memory.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.extensions.caching.memory.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.extensions.caching.memory.dll
+++Microsoft.Extensions.Configuration.Abstractions.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.extensions.configuration.abstractions.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.extensions.configuration.abstractions.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.extensions.configuration.abstractions.dll
+++Microsoft.Extensions.Configuration.Binder.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.extensions.configuration.binder.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.extensions.configuration.binder.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.extensions.configuration.binder.dll
+++Microsoft.Extensions.Configuration.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.extensions.configuration.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.extensions.configuration.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.extensions.configuration.dll
+++Microsoft.Extensions.DependencyInjection.Abstractions.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.extensions.dependencyinjection.abstractions.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.extensions.dependencyinjection.abstractions.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.extensions.dependencyinjection.abstractions.dll
+++Microsoft.Extensions.DependencyInjection.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.extensions.dependencyinjection.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.extensions.dependencyinjection.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.extensions.dependencyinjection.dll
+++Microsoft.Extensions.Logging.Abstractions.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.extensions.logging.abstractions.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.extensions.logging.abstractions.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.extensions.logging.abstractions.dll
+++Microsoft.Extensions.Logging.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.extensions.logging.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.extensions.logging.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.extensions.logging.dll
+++Microsoft.Extensions.Options.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.extensions.options.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.extensions.options.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.extensions.options.dll
+++Microsoft.Extensions.Primitives.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.extensions.primitives.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.extensions.primitives.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.extensions.primitives.dll
+++Microsoft.Identity.Client.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.identity.client.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.identity.client.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.identity.client.dll
+++Microsoft.IdentityModel.JsonWebTokens.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.identitymodel.jsonwebtokens.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.identitymodel.jsonwebtokens.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.identitymodel.jsonwebtokens.dll
+++Microsoft.IdentityModel.Logging.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.identitymodel.logging.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.identitymodel.logging.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.identitymodel.logging.dll
+++Microsoft.IdentityModel.Protocols.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.identitymodel.protocols.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.identitymodel.protocols.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.identitymodel.protocols.dll
+++Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.identitymodel.protocols.openidconnect.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.identitymodel.protocols.openidconnect.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.identitymodel.protocols.openidconnect.dll
+++Microsoft.IdentityModel.Tokens.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.identitymodel.tokens.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.identitymodel.tokens.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.identitymodel.tokens.dll
+++Microsoft.OpenApi.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.openapi.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.openapi.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.openapi.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.visualstudio.web.codegeneration.contracts.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.visualstudio.web.codegeneration.contracts.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.visualstudio.web.codegeneration.contracts.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.visualstudio.web.codegeneration.core.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.visualstudio.web.codegeneration.core.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.visualstudio.web.codegeneration.core.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.visualstudio.web.codegeneration.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.visualstudio.web.codegeneration.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.visualstudio.web.codegeneration.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.visualstudio.web.codegeneration.entityframeworkcore.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.visualstudio.web.codegeneration.entityframeworkcore.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.visualstudio.web.codegeneration.entityframeworkcore.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.visualstudio.web.codegeneration.templating.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.visualstudio.web.codegeneration.templating.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.visualstudio.web.codegeneration.templating.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.visualstudio.web.codegeneration.utils.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.visualstudio.web.codegeneration.utils.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.visualstudio.web.codegeneration.utils.dll
+++Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\microsoft.visualstudio.web.codegenerators.mvc.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\microsoft.visualstudio.web.codegenerators.mvc.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\microsoft.visualstudio.web.codegenerators.mvc.dll
+++Newtonsoft.Json.Bson.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\newtonsoft.json.bson.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\newtonsoft.json.bson.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\newtonsoft.json.bson.dll
+++Newtonsoft.Json.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\newtonsoft.json.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\newtonsoft.json.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\newtonsoft.json.dll
+++NuGet.Frameworks.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\nuget.frameworks.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\nuget.frameworks.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\nuget.frameworks.dll
+++Swashbuckle.AspNetCore.Swagger.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\swashbuckle.aspnetcore.swagger.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\swashbuckle.aspnetcore.swagger.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\swashbuckle.aspnetcore.swagger.dll
+++Swashbuckle.AspNetCore.SwaggerGen.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\swashbuckle.aspnetcore.swaggergen.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\swashbuckle.aspnetcore.swaggergen.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\swashbuckle.aspnetcore.swaggergen.dll
+++Swashbuckle.AspNetCore.SwaggerUI.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\swashbuckle.aspnetcore.swaggerui.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\swashbuckle.aspnetcore.swaggerui.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\swashbuckle.aspnetcore.swaggerui.dll
+++System.Collections.Immutable.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\system.collections.immutable.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\system.collections.immutable.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\system.collections.immutable.dll
+++System.Composition.AttributedModel.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\system.composition.attributedmodel.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\system.composition.attributedmodel.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\system.composition.attributedmodel.dll
+++System.Composition.Convention.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\system.composition.convention.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\system.composition.convention.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\system.composition.convention.dll
+++System.Composition.Hosting.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\system.composition.hosting.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\system.composition.hosting.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\system.composition.hosting.dll
+++System.Composition.Runtime.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\system.composition.runtime.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\system.composition.runtime.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\system.composition.runtime.dll
+++System.Composition.TypedParts.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\system.composition.typedparts.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\system.composition.typedparts.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\system.composition.typedparts.dll
+++System.Configuration.ConfigurationManager.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\system.configuration.configurationmanager.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\system.configuration.configurationmanager.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\system.configuration.configurationmanager.dll
+++System.Diagnostics.DiagnosticSource.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\system.diagnostics.diagnosticsource.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\system.diagnostics.diagnosticsource.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\system.diagnostics.diagnosticsource.dll
+++System.IdentityModel.Tokens.Jwt.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\system.identitymodel.tokens.jwt.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\system.identitymodel.tokens.jwt.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\system.identitymodel.tokens.jwt.dll
+++System.Net.Http.Formatting.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\system.net.http.formatting.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\system.net.http.formatting.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\system.net.http.formatting.dll
+++System.Runtime.Caching.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\system.runtime.caching.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\system.runtime.caching.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\system.runtime.caching.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\system.runtime.caching.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\system.runtime.caching.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\system.runtime.caching.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\system.runtime.caching.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\runtimes\unix\lib\netcoreapp2.0\system.runtime.caching.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\runtimes\win\lib\netcoreapp2.0\system.runtime.caching.dll
+++System.Security.Cryptography.ProtectedData.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\system.security.cryptography.protecteddata.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\system.security.cryptography.protecteddata.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\system.security.cryptography.protecteddata.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\system.security.cryptography.protecteddata.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\system.security.cryptography.protecteddata.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\runtimes\win\lib\netstandard2.0\system.security.cryptography.protecteddata.dll
+++System.Web.Cors.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\system.web.cors.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\system.web.cors.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\system.web.cors.dll
+++System.Web.Http.Cors.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\system.web.http.cors.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\system.web.http.cors.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\system.web.http.cors.dll
+++System.Web.Http.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\system.web.http.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\system.web.http.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\system.web.http.dll
+++staticwebassets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\netcoreapp3.1\staticwebassets\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\staticwebassets\
+++.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\netcoreapp3.1\.netcoreapp,version=v3.1.assemblyattributes.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\.netcoreapp,version=v3.1.assemblyattributes.cs
+++apphost.exe
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\netcoreapp3.1\apphost.exe
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\apphost.exe
+++BackendReciclarsipaga.AssemblyInfo.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\netcoreapp3.1\backendreciclarsipaga.assemblyinfo.cs
+++BackendReciclarsipaga.AssemblyInfoInputs.cache
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\netcoreapp3.1\backendreciclarsipaga.assemblyinfoinputs.cache
+++BackendReciclarsipaga.assets.cache
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\netcoreapp3.1\backendreciclarsipaga.assets.cache
+++BackendReciclarsipaga.csproj.AssemblyReference.cache
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\netcoreapp3.1\backendreciclarsipaga.csproj.assemblyreference.cache
+++BackendReciclarsipaga.csproj.CoreCompileInputs.cache
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\netcoreapp3.1\backendreciclarsipaga.csproj.corecompileinputs.cache
+++BackendReciclarsipaga.csproj.FileListAbsolute.txt
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\netcoreapp3.1\backendreciclarsipaga.csproj.filelistabsolute.txt
+++BackendReciclarsipaga.GeneratedMSBuildEditorConfig.editorconfig
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\netcoreapp3.1\backendreciclarsipaga.generatedmsbuildeditorconfig.editorconfig
+++BackendReciclarsipaga.genruntimeconfig.cache
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\netcoreapp3.1\backendreciclarsipaga.genruntimeconfig.cache
+++BackendReciclarsipaga.MvcApplicationPartsAssemblyInfo.cache
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\netcoreapp3.1\backendreciclarsipaga.mvcapplicationpartsassemblyinfo.cache
+++BackendReciclarsipaga.MvcApplicationPartsAssemblyInfo.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\netcoreapp3.1\backendreciclarsipaga.mvcapplicationpartsassemblyinfo.cs
+++BackendReciclarsipaga.RazorTargetAssemblyInfo.cache
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\netcoreapp3.1\backendreciclarsipaga.razortargetassemblyinfo.cache
+++BackendRubricas.AssemblyInfo.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\netcoreapp3.1\backendrubricas.assemblyinfo.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\backendrubricas.assemblyinfo.cs
+++BackendRubricas.AssemblyInfoInputs.cache
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\netcoreapp3.1\backendrubricas.assemblyinfoinputs.cache
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\backendrubricas.assemblyinfoinputs.cache
+++BackendRubricas.assets.cache
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\netcoreapp3.1\backendrubricas.assets.cache
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\backendrubricas.assets.cache
+++BackendRubricas.csproj.AssemblyReference.cache
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\netcoreapp3.1\backendrubricas.csproj.assemblyreference.cache
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\backendrubricas.csproj.assemblyreference.cache
+++BackendRubricas.csproj.CopyComplete
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\netcoreapp3.1\backendrubricas.csproj.copycomplete
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\backendrubricas.csproj.copycomplete
+++BackendRubricas.csproj.CoreCompileInputs.cache
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\netcoreapp3.1\backendrubricas.csproj.corecompileinputs.cache
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\backendrubricas.csproj.corecompileinputs.cache
+++BackendRubricas.csproj.FileListAbsolute.txt
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\netcoreapp3.1\backendrubricas.csproj.filelistabsolute.txt
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\backendrubricas.csproj.filelistabsolute.txt
+++BackendRubricas.GeneratedMSBuildEditorConfig.editorconfig
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\netcoreapp3.1\backendrubricas.generatedmsbuildeditorconfig.editorconfig
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\backendrubricas.generatedmsbuildeditorconfig.editorconfig
+++BackendRubricas.genruntimeconfig.cache
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\netcoreapp3.1\backendrubricas.genruntimeconfig.cache
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\backendrubricas.genruntimeconfig.cache
+++BackendRubricas.MvcApplicationPartsAssemblyInfo.cache
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\netcoreapp3.1\backendrubricas.mvcapplicationpartsassemblyinfo.cache
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\backendrubricas.mvcapplicationpartsassemblyinfo.cache
+++BackendRubricas.MvcApplicationPartsAssemblyInfo.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\netcoreapp3.1\backendrubricas.mvcapplicationpartsassemblyinfo.cs
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\backendrubricas.mvcapplicationpartsassemblyinfo.cs
+++BackendRubricas.RazorTargetAssemblyInfo.cache
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\netcoreapp3.1\backendrubricas.razortargetassemblyinfo.cache
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\backendrubricas.razortargetassemblyinfo.cache
+++PubTmp
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\
+++PublishOutputs.cf3666436c.txt
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\publishoutputs.cf3666436c.txt
+++Microsoft.NuGet.ImportBefore.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Sdk.Razor.StaticAssets.ProjectSystem.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\sdk\sdk.razor.staticassets.projectsystem.props
+++Microsoft.TypeScript.Default.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.default.props
+++Microsoft.NET.Sdk.Web.DefaultItems.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.defaultitems.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.Razor.BeforeCommon.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.beforecommon.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Windows.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.windows.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++Microsoft.NET.Sdk.Razor.Compilation.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.compilation.targets
+++Microsoft.NET.Sdk.Razor.Configuration.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.configuration.targets
+++Microsoft.NET.Sdk.Razor.CodeGeneration.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.codegeneration.targets
+++Microsoft.NET.Sdk.Razor.Component.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.component.targets
+++Microsoft.NET.Sdk.Razor.StaticWebAssets.5_0.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.staticwebassets.5_0.targets
+++Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.generateassemblyinfo.targets
+++Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.mvcapplicationpartsdiscovery.targets
+++Microsoft.NET.Sdk.Razor.DesignTime.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\razor\microsoft.net.sdk.razor.designtime.targets
+++Microsoft.TypeScript.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.targets
+++Microsoft.TypeScript.DotNetCore.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.dotnetcore.targets
+++Microsoft.Web.Designtime.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.designtime.targets
+++Default.pubxml
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\publishprofiles\default.pubxml
+++Microsoft.NET.Sdk.Publish.ComputeFiles.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\computetargets\microsoft.net.sdk.publish.computefiles.targets
+++Microsoft.NET.Sdk.Publish.FilterFiles.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.filterfiles.targets
+++Microsoft.NET.Sdk.Publish.CopyFiles.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.copyfiles.targets
+++Microsoft.NET.Sdk.Publish.TransformFiles.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\transformtargets\microsoft.net.sdk.publish.transformfiles.targets
+++Microsoft.NET.Sdk.Publish.FileSystem.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\publishtargets\microsoft.net.sdk.publish.filesystem.targets
+++Microsoft.NET.Sdk.DotNetCLITool.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.publish\targets\dotnetclitooltargets\microsoft.net.sdk.dotnetclitool.targets
+++Microsoft.CodeAnalysis.CSharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\cs\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\de\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\es\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\fr\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\it\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\ja\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\ko\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\pl\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\pt-br\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\ru\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\tr\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\zh-hans\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\zh-hant\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\cs\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\de\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\es\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\fr\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\it\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\ja\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\ko\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\pl\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\pt-br\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\ru\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\tr\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\zh-hans\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\zh-hant\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\cs\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\de\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\es\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\fr\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\it\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\ja\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\ko\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\pl\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\pt-br\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\ru\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\tr\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\zh-hans\microsoft.codeanalysis.csharp.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\zh-hant\microsoft.codeanalysis.csharp.resources.dll
+++Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\cs\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\de\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\es\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\fr\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\it\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\ja\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\ko\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\pl\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\pt-br\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\ru\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\tr\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\zh-hans\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\zh-hant\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\cs\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\de\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\es\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\fr\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\it\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\ja\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\ko\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\pl\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\pt-br\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\ru\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\tr\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\zh-hans\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\zh-hant\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\cs\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\de\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\es\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\fr\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\it\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\ja\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\ko\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\pl\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\pt-br\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\ru\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\tr\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\zh-hans\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\zh-hant\microsoft.codeanalysis.csharp.workspaces.resources.dll
+++Microsoft.CodeAnalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\cs\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\de\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\es\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\fr\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\it\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\ja\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\ko\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\pl\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\pt-br\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\ru\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\tr\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\zh-hans\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\zh-hant\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\cs\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\de\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\es\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\fr\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\it\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\ja\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\ko\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\pl\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\pt-br\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\ru\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\tr\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\zh-hans\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\zh-hant\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\cs\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\de\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\es\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\fr\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\it\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\ja\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\ko\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\pl\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\pt-br\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\ru\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\tr\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\zh-hans\microsoft.codeanalysis.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\zh-hant\microsoft.codeanalysis.resources.dll
+++Microsoft.CodeAnalysis.Workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\cs\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\de\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\es\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\fr\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\it\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\ja\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\ko\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\pl\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\pt-br\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\ru\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\tr\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\zh-hans\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\zh-hant\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\cs\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\de\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\es\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\fr\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\it\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\ja\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\ko\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\pl\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\pt-br\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\ru\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\tr\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\zh-hans\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\zh-hant\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\cs\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\de\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\es\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\fr\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\it\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\ja\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\ko\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\pl\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\pt-br\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\ru\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\tr\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\zh-hans\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\zh-hant\microsoft.codeanalysis.workspaces.resources.dll
+++unix
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\runtimes\unix\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\runtimes\unix\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\runtimes\unix\
+++win
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\runtimes\win\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\runtimes\win\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\runtimes\win\
+++win-arm64
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\runtimes\win-arm64\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\runtimes\win-arm64\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\runtimes\win-arm64\
+++win-x64
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\runtimes\win-x64\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\runtimes\win-x64\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\runtimes\win-x64\
+++win-x86
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\runtimes\win-x86\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\runtimes\win-x86\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\runtimes\win-x86\
+++BackendReciclarsipaga.StaticWebAssets.Manifest.cache
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\netcoreapp3.1\staticwebassets\backendreciclarsipaga.staticwebassets.manifest.cache
+++BackendRubricas.StaticWebAssets.Manifest.cache
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\debug\netcoreapp3.1\staticwebassets\backendrubricas.staticwebassets.manifest.cache
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\staticwebassets\backendrubricas.staticwebassets.manifest.cache
+++Out
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\
+++BackendRubricas.Parameters.xml
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\backendrubricas.parameters.xml
+++BackendRubricas.SourceManifest.xml
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\backendrubricas.sourcemanifest.xml
+++Microsoft.Extensions.ApiDescription.Server.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\.nuget\packages\microsoft.extensions.apidescription.server\3.0.0\build\microsoft.extensions.apidescription.server.props
+++Swashbuckle.AspNetCore.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\.nuget\packages\swashbuckle.aspnetcore\5.4.1\build\swashbuckle.aspnetcore.props
+++Microsoft.EntityFrameworkCore.Design.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\.nuget\packages\microsoft.entityframeworkcore.design\3.1.23\build\netcoreapp2.0\microsoft.entityframeworkcore.design.props
+++Microsoft.NuGet.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.android)
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.ios)
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maccatalyst)
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.macos)
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maui)
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.tvos)
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.emscripten)
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.mono.toolchain)
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++lib
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\runtimes\unix\lib\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\runtimes\win\lib\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\runtimes\unix\lib\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\runtimes\win\lib\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\runtimes\unix\lib\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\runtimes\win\lib\
+++native
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\runtimes\win-arm64\native\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\runtimes\win-x64\native\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\runtimes\win-x86\native\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\runtimes\win-arm64\native\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\runtimes\win-x64\native\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\runtimes\win-x86\native\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\runtimes\win-arm64\native\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\runtimes\win-x64\native\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\runtimes\win-x86\native\
+++web.config
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\web.config
+++Microsoft.NET.ILLink.Tasks.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++netcoreapp2.0
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\runtimes\unix\lib\netcoreapp2.0\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\runtimes\win\lib\netcoreapp2.0\
+++netcoreapp2.1
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\runtimes\unix\lib\netcoreapp2.1\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\runtimes\win\lib\netcoreapp2.1\
+++netstandard2.0
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\runtimes\win\lib\netstandard2.0\
+++sni.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\bin\release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\runtimes\win-arm64\native\sni.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\runtimes\win-x64\native\sni.dll
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\obj\release\netcoreapp3.1\pubtmp\out\runtimes\win-x86\native\sni.dll
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++BackendReciclarsipaga.csproj.user
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\downloads\proyecto ibero\backend\backendrubricas\backendreciclarsipaga.csproj.user
+++Microsoft.NET.props
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++Xamarin.Common.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\xamarin.common.targets
+++Microsoft.Extensions.ApiDescription.Server.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\users\duban\.nuget\packages\microsoft.extensions.apidescription.server\3.0.0\build\microsoft.extensions.apidescription.server.targets
+++Microsoft.Docker.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++Microsoft.Web.IISSupport.targets
+i:{b9e48995-dda1-4e4e-8481-a2366428c4fa}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.iissupport.targets

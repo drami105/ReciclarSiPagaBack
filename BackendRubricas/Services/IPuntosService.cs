@@ -8,5 +8,7 @@ namespace BackendReciclarsipaga.Services
     {
         Task<IEnumerable<Puntos>> GetAllAsync();
 
+        Task<bool> AgregarPuntosAsync(int idUsuario, long puntosNuevos);
+
     }
 }

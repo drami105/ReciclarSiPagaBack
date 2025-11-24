@@ -25,6 +25,17 @@ namespace BackendReciclarsipaga.Controllers
             return Ok(puntos);
         }
 
+        [HttpPost("agregar")]
+        public async Task<IActionResult> AgregarPuntos([FromBody] Puntos puntosDto)
+        {
+            var exito = await _puntosService.AgregarPuntosAsync(puntosDto.idUsuario, puntosDto.puntos);
+
+            if (!exito)
+                return NotFound($"Usuario con ID {puntosDto.idUsuario} no encontrado.");
+
+            return Ok(new { mensaje = "Puntos actualizados correctamente" });
+        }
+
 
     }
 }

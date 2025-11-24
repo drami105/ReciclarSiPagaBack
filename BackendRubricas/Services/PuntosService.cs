@@ -20,5 +20,20 @@ namespace BackendReciclarsipaga.Services
             return await _context.puntos.ToListAsync();
         }
 
+        public async Task<bool> AgregarPuntosAsync(int idUsuario, long puntosNuevos)
+        {
+            var registro = await _context.puntos.FirstOrDefaultAsync(p => p.idUsuario == idUsuario);
+
+            if (registro == null)
+                return false;
+
+            registro.puntos += puntosNuevos;
+
+            _context.puntos.Update(registro);
+            await _context.SaveChangesAsync();
+
+            return true;
+        }
+
     }
 }

@@ -60,6 +60,7 @@ namespace BackendRubricas
             services.AddScoped<IRecoleccionService, RecoleccionService>();
             services.AddScoped<ITipoDocumentoService, TipoDocumentoService>();
             services.AddScoped<IUsuarioService, UsuarioService>();
+            services.AddScoped<IPuntosService, PuntosService>();
 
 
         }

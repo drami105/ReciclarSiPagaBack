@@ -49,5 +49,16 @@ namespace BackendReciclarsipaga.Services
 
             return true;
         }
+
+        public async Task<int?> GetPuntosPorUsuarioAsync(long idUsuario)
+        {
+            var puntos = await _context.puntos
+                .Where(p => p.idUsuario == idUsuario)
+                .Select(p => (int?)p.puntos) // nullable
+                .FirstOrDefaultAsync();
+
+            return puntos;
+        }
+
     }
 }

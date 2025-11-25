@@ -48,5 +48,15 @@ namespace BackendReciclarsipaga.Controllers
             return Ok(new { mensaje = "Puntos actualizados correctamente" });
         }
 
+        [HttpGet("usuario/{idUsuario}")]
+        public async Task<ActionResult<int>> GetPuntosPorUsuario(long idUsuario)
+        {
+            var puntos = await _puntosService.GetPuntosPorUsuarioAsync(idUsuario);
+            if (puntos == null)
+                return NotFound();
+
+            return Ok(puntos);
+        }
+
     }
 }

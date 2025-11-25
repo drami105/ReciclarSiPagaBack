@@ -11,5 +11,7 @@ namespace BackendReciclarsipaga.Services
         Task<bool> AgregarPuntosAsync(int idUsuario, long puntosNuevos);
 
         Task<bool> DisminuirPuntosAsync(int idUsuario, long puntosNuevos);
+
+        Task<int?> GetPuntosPorUsuarioAsync(long idUsuario);
     }
 }

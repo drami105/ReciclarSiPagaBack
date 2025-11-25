@@ -25,6 +25,7 @@ namespace BackendRubricas.Context
         public DbSet<Recoleccion> recoleccion { get; set; }
         public DbSet<RecoleccionDto> recoleccionDto { get; set; }
         public DbSet<Puntos> puntos { get; set; }
+        public DbSet<Barrio> barrio { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

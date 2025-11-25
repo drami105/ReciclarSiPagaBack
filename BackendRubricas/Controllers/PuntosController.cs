@@ -37,5 +37,16 @@ namespace BackendReciclarsipaga.Controllers
         }
 
 
+        [HttpPost("disminuir")]
+        public async Task<IActionResult> DisminuirPuntos([FromBody] Puntos puntosDto)
+        {
+            var exito = await _puntosService.DisminuirPuntosAsync(puntosDto.idUsuario, puntosDto.puntos);
+
+            if (!exito)
+                return NotFound($"Usuario con ID {puntosDto.idUsuario} no encontrado.");
+
+            return Ok(new { mensaje = "Puntos actualizados correctamente" });
+        }
+
     }
 }

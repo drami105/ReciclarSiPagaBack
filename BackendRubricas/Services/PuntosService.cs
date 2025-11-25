@@ -35,5 +35,19 @@ namespace BackendReciclarsipaga.Services
             return true;
         }
 
+        public async Task<bool> DisminuirPuntosAsync(int idUsuario, long puntosNuevos)
+        {
+            var registro = await _context.puntos.FirstOrDefaultAsync(p => p.idUsuario == idUsuario);
+
+            if (registro == null)
+                return false;
+
+            registro.puntos -= puntosNuevos;
+
+            _context.puntos.Update(registro);
+            await _context.SaveChangesAsync();
+
+            return true;
+        }
     }
 }
